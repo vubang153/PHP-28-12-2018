@@ -1,0 +1,39 @@
+*
+	{
+		padding: 0px;
+		margin: 0px;
+	}
+	#backgroundphangiua {
+		width: 1165px;
+		height: 501px;
+		margin: auto;
+		background-color: white;	
+	}
+	#wrappercontentphangiua {
+		width: 1100px;
+		height: 445px;
+		margin-left: 30px;
+		margin: auto;
+	}
+	#news1phangiua {
+		width: 586px;
+		height: 442px;
+		background-color: white;
+		float: left;
+
+	}
+	#news2phangiua {
+		width: 505px;
+		height: 253px;
+		background-color: white;
+		float: left;
+		margin-left:5px;
+	}
+	#news3phangiua,#news4phangiua {
+		width: 251px;
+		height: 186px;
+		background-color: white;
+		float: left;
+		margin-left: 5px;
+		margin-top: 3px;
+	}
